@@ -15,6 +15,7 @@ Overview
 - user-​friendly control software
 
 Reference
+
 If you use PHIL please cite the following paper:
 
 Dettinger P, Kull T, Arekatla G, Ahmed N, Zhang Y, Schneiter F, Wehling A, Schirmacher D, Kawamura S, Loeffler D and Schroeder T (2021)
@@ -22,11 +23,15 @@ Personal open-source pipetting robots with stage-top live-cell incubation and im
 bioRxiv, 2021.07.04.448641
 
 System Requirements
+
 Hardware requirements
+
 PHILs GUI requires only a standard computer with enough RAM to support the in-memory operations.
 
 Software requirements
+
 OS Requirements
+
 This package is supported for Windows and requires Matlab 2020. The package has been tested on the following systems:
 
 Windows 10 - Matlab 2020
