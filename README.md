@@ -7,7 +7,7 @@ Pipetting Helper Imaging Lid – PHIL - 2021
 Open-source personal pipetting robots with live-​cell incubation and microscopy compatibility
 
 Overview
-- personal small desktop liquid handling robot
+- personal small desktop liquid handling robot designed in AutoCAD 2018.
 - small, light, cheap
 - fast self-​assembly from 3D printed and commercial parts
 - long-​term live cell culture media exchange, immunostainings, etc
