@@ -4,6 +4,10 @@
 
 Pipetting Helper Imaging Lid – PHIL - 2021
 
+Latest Update:
+15.05.2022 - Updated Arduino Mega Shield to prevent burnouts by increasing the width of motor power traces:
+https://www.pcbway.com/project/shareproject/Arduino_Mega14x_V4_3edde2c7.html
+
 Open-source personal pipetting robots with live-​cell incubation and microscopy compatibility
 
 Overview
