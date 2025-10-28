@@ -22,9 +22,10 @@ Reference
 
 If you use PHIL please cite the following paper:
 
-Dettinger P, Kull T, Arekatla G, Ahmed N, Zhang Y, Schneiter F, Wehling A, Schirmacher D, Kawamura S, Loeffler D and Schroeder T (2021)
-Personal open-source pipetting robots with stage-top live-cell incubation and imaging capability.
-bioRxiv, 2021.07.04.448641
+Dettinger*, Dettinger*, Kull, Arekatla, Ahmed, Zhang, Schneiter, Wehling, Schirmacher, Kawamura, Loeffler, Schroeder*
+Open-source personal pipetting robots with live-cell incubation and microscopy compatibility
+Nature Communications 13, 2999 (2022).
+https://doi.org/10.1038/s41467-022-30643-7
 
 System Requirements
 
